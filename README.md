@@ -19,6 +19,15 @@ I build scalable fintech and SaaS applications with a focus on regulatory compli
 
 ## Featured Projects
 
+### Korrency — Full Stack Developer
+*November 2024 – Present*
+
+Cross-border money transfer and currency exchange platform (Canada → Africa).
+
+- **Tech:** Laravel Horizon, Vue.js, TypeScript, OpenSanctions API
+- **Contributions:** Localization infrastructure (EN/FR), sanctions screening integration, transaction processing with automated retry mechanisms, admin dashboard with real-time analytics
+- **Integrations:** Fincra, Paga, ClearJunction, Apaylo, Onafriq
+
 ### MirrorLog — Full Stack Developer (Hobby Project)
 *January 2022 – Present*
 
@@ -28,15 +37,6 @@ A creator economy platform with integrated digital wallets and real-time transac
 - **Scale:** 3,500+ concurrent users, 99.9% uptime on $12.90/month infrastructure
 - **Features:** P2P payments, content monetization, escrow-managed contests, bank transfers
 - **Security:** Google 2FA, reCAPTCHA v3, rate limiting — zero security breaches
-
-### Korrency — Full Stack Developer
-*November 2024 – Present*
-
-Cross-border money transfer and currency exchange platform (Canada → Africa).
-
-- **Tech:** Laravel Horizon, Vue.js, TypeScript, OpenSanctions API
-- **Contributions:** Localization infrastructure (EN/FR), sanctions screening integration, transaction processing with automated retry mechanisms, admin dashboard with real-time analytics
-- **Integrations:** Fincra, Paga, ClearJunction, Apaylo, Onafriq
 
 ### CheckLMS — Backend Developer
 *May 2024 – March 2025*
