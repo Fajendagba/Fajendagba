@@ -1,4 +1,4 @@
-# Hi, I'm Joy Fajendagba (@MirrorVlogger)
+# Hi, I'm Joy Fajendagba (@Fajendagba)
 
 **Full Stack Developer | Fintech & SaaS | Laravel • PHP • Vue.js • React • TypeScript**
 
