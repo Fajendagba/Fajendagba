@@ -22,9 +22,9 @@ I build scalable fintech and SaaS applications with a focus on regulatory compli
 ### Korrency — Full Stack Developer
 *November 2024 – Present*
 
-Cross-border money transfer and currency exchange platform (Canada → Africa).
+Cross-border money transfer and currency exchange platform.
 
-- **Tech:** Laravel Horizon, Vue.js, TypeScript, OpenSanctions API
+- **Tech:** Laravel Horizon, Vue.js, JavaScript, TypeScript, React.js, OpenSanctions API
 - **Contributions:** Localization infrastructure (EN/FR), sanctions screening integration, transaction processing with automated retry mechanisms, admin dashboard with real-time analytics
 - **Integrations:** Fincra, Paga, ClearJunction, Apaylo, Onafriq
 
