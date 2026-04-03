@@ -77,4 +77,4 @@ AgAu — International cryptocurrency application with FIAT payment processing.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MirrorVlogger)
 [![Website](https://img.shields.io/badge/MirrorLog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mirrorlog.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fajendagbajoy@gmail.com)
-[![Resume](https://docs.google.com/document/d/1XyJVUhiHfFdzq5oP3WFJXRSVrcvajDiLkwK1Va3ACgI/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://docs.google.com/document/d/1XyJVUhiHfFdzq5oP3WFJXRSVrcvajDiLkwK1Va3ACgI/edit?usp=sharing)
