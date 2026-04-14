@@ -1,80 +1,61 @@
-# Hi, I'm Joy Fajendagba (@Fajendagba)
+# Joy Fajendagba
 
-**Full Stack Developer | Fintech & SaaS | Laravel • PHP • Vue.js • React • TypeScript**
+**Full Stack Developer | I ship production features on day one | Laravel • Vue.js • React • TypeScript | Fintech, Payments & SaaS**
 
-I build scalable fintech and SaaS applications with a focus on regulatory compliance, payment integrations, and high-availability systems. 6+ years of experience architecting backends that handle thousands of concurrent users with 99.9% uptime.
+I built a creator economy platform that handled 3,500 concurrent users with 99.9% uptime. The infrastructure cost was $12.90/month.
 
----
+Now I build cross-border payment infrastructure at a Canadian fintech serving 36+ countries. Sanctions screening, multi-currency transactions, KYC workflows, payment provider integrations. The backend work where mistakes cost real money.
 
-## About Joy
+I write implementation plans before I write code, validate across AI tools, and review everything critically before it ships. This means I join a new codebase and deliver production-ready features from day one.
 
-| Area | Experience |
-|------|------------|
-| **Fintech Systems** | Payment gateways, multi-currency wallets, P2P transactions, escrow systems |
-| **Compliance** | KYC/AML integrations (Onfido, Dojah, HoloBank), sanctions screening (OpenSanctions) |
-| **Infrastructure** | 99.9% uptime on lean infrastructure, queue management with Laravel Horizon |
-| **Growth** | 0 → 1,200+ monthly visitors in 90 days, 4,000+ ranking keywords via technical SEO |
+Available for remote contracts. Based in Lagos, Nigeria (GMT+1). I work US and EU hours.
 
 ---
 
-## Experience
+## What I've Built
 
-### Korrency — Full Stack Developer
-*November 2024 – Present*
+**Korrency** — Cross-border payments platform (Canada, remote)
+- API-first fintech platform processing international money transfers across 36+ countries
+- Sanctions screening integration (OpenSanctions), KYC workflows, transaction monitoring
+- Multi-provider payment integrations: Fincra, Paga, ClearJunction, Apaylo, Onafriq
+- Analytics dashboards with real-time financial data, marketing data pipelines
+- Localization infrastructure (English/French Canadian)
+- Stack: Laravel, Vue.js, React, TypeScript, Laravel Horizon, Redis
 
-Cross-border money transfer and currency exchange platform.
+**MirrorLog** — Creator economy platform (my own product)
+- P2P payments, digital wallets, escrow-managed contests, content monetization
+- 3,500+ concurrent users, 99.9% uptime on $12.90/month infrastructure
+- Zero security breaches across all financial transactions
+- Stack: Laravel, Vue.js, Redis, WebSockets, Paystack
 
-- **Tech:** Laravel Horizon, Vue.js, JavaScript, TypeScript, React.js, OpenSanctions API
-- **Contributions:** Localization infrastructure (EN/FR), sanctions screening integration, transaction processing with automated retry mechanisms, admin dashboard with real-time analytics
-- **Integrations:** Fincra, Paga, ClearJunction, Apaylo, Onafriq
+**Landlord** — Self-storage facility management SaaS (USA, remote)
+- Fixed critical legacy bugs that had persisted for months
+- Debugged and refactored AI-generated code to meet production standards
+- Stack: Laravel, Livewire, Alpine.js, Stripe
 
-### MirrorLog — Full Stack Developer (Hobby Project)
-*January 2022 – Present*
-
-A creator economy platform with integrated digital wallets and real-time transaction processing.
-
-- **Tech:** Laravel, Vue.js, Redis, WebSockets, Paystack
-- **Scale:** 3,500+ concurrent users, 99.9% uptime on $12.90/month infrastructure
-- **Features:** P2P payments, content monetization, escrow-managed contests, bank transfers
-- **Security:** Google 2FA, reCAPTCHA v3, rate limiting — zero security breaches
-
-### CheckLMS — Backend Developer
-*May 2024 – March 2025*
-
-Headless Moodle-based Learning Management System.
-
-- **Tech:** Laravel, Moodle, RESTful APIs
-- **Challenge:** Transformed Moodle into a headless system despite platform limitations
-- **Solution:** Custom authentication and password hashing for Laravel ↔ Moodle compatibility
-
-AgAu — International cryptocurrency application with FIAT payment processing.
-
-- **Tech:** Laravel, HoloBank KYC
-- **Markets:** Switzerland, UK
-- **Features:** FIAT payment processing, international compliance integration
+**CheckLMS + AgAu** — LMS and cryptocurrency platform (Lagos)
+- Transformed Moodle into a headless system with custom auth bridging Laravel and Moodle
+- Built FIAT payment processing for European markets (Switzerland, UK) with HoloBank KYC
+- Stack: Laravel, Moodle, RESTful APIs
 
 ---
 
-## Technical Stack
+## Stack
 
-**Backend:** PHP, Laravel, RESTful APIs, Webhooks, Supervisor, Laravel Horizon, Redis Queues, OAuth2
+**Backend:** PHP, Laravel, RESTful APIs, Webhooks, Laravel Horizon, Redis Queues, Supervisor, OAuth2
 
-**Frontend:** Vue.js, React.js, TypeScript, Tailwind CSS, TanStack Table, Livewire, Alpine.js
+**Frontend:** Vue.js, React, TypeScript, JavaScript, Tailwind CSS, Livewire, Alpine.js
 
-**Fintech:** KYC/AML Integration, Sanctions Screening, Payment Gateways (Paystack, Stripe, Paya), Multi-currency Systems
+**Fintech:** KYC/AML (Onfido, Dojah, HoloBank), Sanctions Screening (OpenSanctions), Payment Gateways (Stripe, Paystack, Fincra, Paga, ClearJunction, Apaylo, Onafriq)
 
-**DevOps:** Docker, CI/CD (GitHub Actions), Linux, NGINX, Digital Ocean, Laravel Forge
+**DevOps:** Docker, CI/CD (GitHub Actions), Linux, NGINX, DigitalOcean, Laravel Forge, AWS
 
-**Database:** MySQL, Query Optimization, Indexing
-
-**Practices:** SOLID, DRY, KISS, Test-Driven Development
+**Database:** MySQL, Query Optimization, Indexing, Migrations
 
 ---
 
-## Reach out to Joy
+## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joy-fajendagba)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MirrorVlogger)
-[![Website](https://img.shields.io/badge/MirrorLog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mirrorlog.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fajendagbajoy@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://docs.google.com/document/d/1XyJVUhiHfFdzq5oP3WFJXRSVrcvajDiLkwK1Va3ACgI/edit?usp=sharing)
+[![MirrorLog](https://img.shields.io/badge/MirrorLog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mirrorlog.com)
