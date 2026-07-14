@@ -36,7 +36,7 @@ Available for remote contracts. Based in Lagos, Nigeria (GMT+1). I work US and E
 
 **MirrorLog** — Creator economy platform (my own product)
 - P2P payments, digital wallets, escrow-managed contests, content monetization
-- 3,500+ concurrent users, 99.9% uptime on $12.90/month infrastructure
+- 3,500+ registered users, with traffic spikes of 14,000+ visitors in two days, 99.9% uptime on $12.90/month infrastructure
 - Zero security breaches across all financial transactions
 - Stack: Laravel, Vue.js, Redis, WebSockets, Paystack
 
