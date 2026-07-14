@@ -2,7 +2,7 @@
 
 **Senior Full Stack Engineer | Python • FastAPI • TypeScript • Next.js • Laravel • Vue.js | AI Engineering, Fintech & SaaS**
 
-I built a creator economy platform that handled 3,500 concurrent users with 99.9% uptime. The infrastructure cost was $12.90/month.
+I built a creator economy platform that handled 3,500+ registered users, with traffic spikes of 14,000+ visitors in two days, 99.9% uptime on $12.90/month infrastructure.
 
 Now I build cross-border payment infrastructure at a Canadian fintech serving 36+ countries. Sanctions screening, multi-currency transactions, KYC workflows, payment provider integrations. The backend work where mistakes cost real money.
 
